@@ -31,8 +31,8 @@ export const projects = [
     description: "This is a code repository for a tokenized crowdfunding app. The goal of this smart contract is to allow global access to project funding whether as an individual, group or organization.",
     image: '/images/4.png',
     tags: ['React', 'TailWind CSS', 'Hardhat'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/CyberGA/Platinode',
+    visit: 'https://platinode.vercel.app/',
     id: 3,
   },
 ];
