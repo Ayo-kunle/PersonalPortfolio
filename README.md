@@ -1,3 +1,3 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://ibb.co/m9D9Kn7)
+![Portfolio Website][img]https://i.ibb.co/s9tfXwJ/Screenshot-36.png[/img]
